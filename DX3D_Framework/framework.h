@@ -40,6 +40,7 @@ using namespace DirectX;
 
 #include "Obejct/ObjacetInterface.h"
 #include "Elements/Resources/Texture.h"
+#include "System/Interfaces/IObject.h"
 
 struct Vertex
 {
